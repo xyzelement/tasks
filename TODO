@@ -1,0 +1,11 @@
+TODO
+
+https://github.com/rniemeyer/knockout-sortable
+for dragging - play with it and get some dragging and text entry examples working
+
+Goal:
+1. "Add item"
+2. Render a row programatically per-item
+3. Support drag-drop of items.
+
+learn more about knockout in general
